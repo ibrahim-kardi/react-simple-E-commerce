@@ -1,0 +1,15 @@
+
+.product{
+    display: flex;
+}
+.product-info{
+    margin-left: 5px;
+}
+.cart-button{
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    background-color: wheat;
+    border: none;
+    cursor: pointer;
+}
